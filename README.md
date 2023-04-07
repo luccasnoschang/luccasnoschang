@@ -1,6 +1,8 @@
 ## Olá! Me chamo Luccas
 
-![Luccas Noschang GitHub stats](https://github-readme-stats.vercel.app/api?username=luccasnoschang&hide=contribs,prs)
+![Luccas Noschang GitHub stats](https://github-readme-stats.vercel.app/api?username=luccasnoschang&hide=contribs,prs&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccasnoschang&hide_progress=true&theme=tokyonight&)](https://github.com/luccasnoschang/github-readme-stats&theme=tokyonight)
 
 Sou um estudante de programação autodidata há dois anos. Durante esse tempo, ja passei por linguagens como Lua, VisualG e Java. Atualmente, estou focando em HTML, CSS e JavaScript para desenvolvimento web. Recentemente, comecei um curso técnico em análise e desenvolvimento de sistemas para aprimorar ainda mais minhas habilidades e conhecimentos. Estou animado(a) em contribuir com a comunidade e aprender cada vez mais sobre o mundo da programação!
 
