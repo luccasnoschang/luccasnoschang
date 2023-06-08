@@ -18,8 +18,9 @@ Sou um estudante de programação autodidata há dois anos. Durante esse tempo, 
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original.svg">
+<img align="center" alt="Lua" height="30" width="30" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3259762/lua-icon-md.png">
   <img align="center" alt="Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40px">
-  <img align="center" alt="Lua" height="30" width="30" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3259762/lua-icon-md.png">
+  <img align="center" alt="VsCode" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png">
  </div>
 
   ##
