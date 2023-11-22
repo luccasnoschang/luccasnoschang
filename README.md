@@ -9,7 +9,7 @@
  
 <br>
   
-Sou um estudante de programação autodidata há dois anos. Durante esse tempo, ja passei por linguagens como Lua, VisualG e Java. Atualmente, estou focando em HTML, CSS e JavaScript para desenvolvimento web. Recentemente, comecei um curso técnico em análise e desenvolvimento de sistemas para aprimorar ainda mais minhas habilidades e conhecimentos. Estou animado em contribuir com a comunidade e aprender cada vez mais sobre o mundo da programação!
+Sou um estudante de programação autodidata há dois anos. Durante esse tempo, ja passei por linguagens como Lua, C++ e Java. Atualmente, estou focando em React Native para desenvolvimento mobile. Estou em um curso técnico em análise e desenvolvimento de sistemas para aprimorar ainda mais minhas habilidades e conhecimentos. Estou animado em contribuir com a comunidade e aprender cada vez mais sobre o mundo da programação!
 
 <div style="display: inline_block">
 <br>
