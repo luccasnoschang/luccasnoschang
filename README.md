@@ -1,4 +1,4 @@
-## Olá! Me chamo Luccas
+## Olá! Me chamo Luccas, seja bem vindo ao meu Github!
 
 <div style="display: inline_block">
 
@@ -9,7 +9,7 @@
  
 <br>
   
-Sou um estudante de programação autodidata há dois anos. Durante esse tempo, ja passei por linguagens como Lua, C++ e Java. Atualmente, estou focando em React Native para desenvolvimento mobile. Estou em um curso técnico em análise e desenvolvimento de sistemas para aprimorar ainda mais minhas habilidades e conhecimentos. Estou animado em contribuir com a comunidade e aprender cada vez mais sobre o mundo da programação!
+Sou Analista de Dados na exact sales e programador autodidata há mais de dois anos. Durante esse tempo, ja passei por linguagens como Lua, C++ e Java. Atualmente, estou focando em React Native para desenvolvimento mobile. Para me especializar ainda mais nessa área, estou cursando Análise e Desenvolvimento de Sistemas e me aprimorando ainda mais minhas habilidades e conhecimentos.
 
 <div style="display: inline_block">
 <br>
