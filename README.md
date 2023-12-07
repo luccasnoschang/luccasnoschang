@@ -9,7 +9,7 @@
  
 <br>
   
-Sou Analista de Dados na exact sales e programador autodidata há mais de dois anos. Durante esse tempo, ja passei por linguagens como Lua, C++ e Java. Atualmente, estou focando em React Native para desenvolvimento mobile. Para me especializar ainda mais nessa área, estou cursando Análise e Desenvolvimento de Sistemas e me aprimorando ainda mais minhas habilidades e conhecimentos.
+Sou Analista de Dados na Exact Sales e programador autodidata há mais de dois anos. Durante esse tempo, ja passei por linguagens como Lua, C++ e Java. Atualmente, estou focando em React Native para desenvolvimento mobile. Para me especializar ainda mais nessa área, estou cursando Análise e Desenvolvimento de Sistemas e me aprimorando ainda mais minhas habilidades e conhecimentos.
 
 <div style="display: inline_block">
 <br>
