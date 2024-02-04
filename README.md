@@ -21,7 +21,7 @@ Sou Analista de Dados na Exact Sales e programador autodidata há mais de dois a
   <img align="center" alt="Lua" height="30" width="30" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3259762/lua-icon-md.png">
   <img align="center" alt="Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
   <img align="center" alt="VsCode" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png">
- <img align="center" alt="React" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+ <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
  </div>
 
   ##
