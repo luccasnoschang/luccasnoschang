@@ -9,7 +9,7 @@
  
 <br>
   
-Sou Analista de Dados na Exact Sales e programador autodidata há mais de dois anos. Durante esse tempo, ja passei por linguagens como Lua, C++ e Java. Atualmente, estou focando em React Native para desenvolvimento mobile. Para me especializar ainda mais nessa área, estou cursando Análise e Desenvolvimento de Sistemas e me aprimorando ainda mais minhas habilidades e conhecimentos.
+Sou profissional da área de tecnologia com experiência acadêmica de mais de dois anos com desenvolvimento web e mobile, utilizando React, atuando com aplicações responsivas, focadas em boas práticas de UX/UI, integração com APIs, manipulação de dados com bancos relacionais, versionamento com Git e processos de modelagem de sistemas e conhecimentos em back-end com Node.js.
 
 <div style="display: inline_block">
 <br>
