@@ -9,7 +9,7 @@
  
 <br>
   
-Sou profissional da área de tecnologia com experiência acadêmica de mais de dois anos com desenvolvimento web e mobile, utilizando React, atuando com aplicações responsivas, focadas em boas práticas de UX/UI, integração com APIs, manipulação de dados com bancos relacionais, versionamento com Git e processos de modelagem de sistemas e conhecimentos em back-end com Node.js.
+Sou profissional da área de tecnologia com experiência acadêmica de mais de dois anos com desenvolvimento web e mobile, utilizando React, atuando com aplicações responsivas, focadas em boas práticas de UX/UI, integração com APIs, manipulação de dados com bancos relacionais, versionamento com Git, processos de modelagem de sistemas e conhecimentos em back-end com Node.js.
 
 <div style="display: inline_block">
 <br>
